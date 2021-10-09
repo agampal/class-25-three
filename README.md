@@ -1,1 +1,1 @@
-# class-25-three
+Project Solution 25
